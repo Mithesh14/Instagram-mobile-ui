@@ -11,7 +11,7 @@
 
 ![screenshots](https://github.com/Mithesh14/Instagram-mobile-ui/blob/main/images/image1.jpg)
 
-➡️ The website is made in such a way through which you can open the post by clicking on it which will show the post, place, comments, likes ❗
+➡️ The website is made in such a way through which you can open the post by clicking on it which will show the post, place, comments and captions ❗
 
 
 ![screenshots](https://github.com/Mithesh14/Instagram-mobile-ui/blob/main/images/image2.jpg)
