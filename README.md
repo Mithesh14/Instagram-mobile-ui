@@ -3,7 +3,7 @@
  
 # Project link
 
-<a href="https://mithesh14.github.io/Github-profile/">Instagram</a>
+<a href="https://mithesh14.github.io/Instagram-mobile-ui/">Instagram</a>
 
 # Screenshots 
 
